@@ -1,0 +1,4 @@
+assertpy~=1.1
+jsonpath_ng
+requests~=2.31.0
+playwright
