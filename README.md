@@ -4,9 +4,8 @@
 ### Idea:
 Scanning for potential ending of the crypto bull run.
 ### What this code does? 
-It starts a pipeline job once a day, runs through script to check if there is any 
-indicator that should be taken into consideration. If yes, then send all the info to the private
-Telegram channel.
+You should set it up with Github Actions to start a scheduled job once a day. Then magic happens it runs through script to check if there is any 
+indicator that should be taken into consideration. If yes, then send all the info to the private Telegram channel.
 
 
 ## How to
