@@ -35,7 +35,7 @@ And so on...
 - Binance 24h Trading Volume
 
 Of course these indicators have certain threshold limit, if the indicator value did not pass given limit,  
-it will not send include that indicator in the report. 
+it will not include that indicator in the report. 
 
 Indicator trigger:
 - Crypto Greed Index will be triggered if the greed index is larger than 80 
