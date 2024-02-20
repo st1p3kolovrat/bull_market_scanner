@@ -4,7 +4,7 @@
 ### Idea:
 Scanning for potential ending of the crypto bull run.
 ### What this code does? 
-You should set it up with Github Actions to start a scheduled job once a day. Then magic happens it runs through script to check if there is any 
+You should set it up with Github Actions to start a scheduled job once a day. Then magic happens, it runs through script to check if there is any 
 indicator that should be taken into consideration. If yes, then send all the info to the private Telegram channel.
 
 
@@ -33,6 +33,7 @@ And so on...
 - Crypto Greed Index 
 - Bitcoin RSI
 - Binance 24h Trading Volume
+
 Of course these indicators have certain threshold limit, if the indicator value did not pass given limit,  
 it will not send include that indicator in the report. 
 
